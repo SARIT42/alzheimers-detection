@@ -145,6 +145,8 @@ The project implements hybrid deep learning models combining deep learning with 
 
 The following table shows the evaluation metrics for different models used in the HealthCoder project:
 
+### Transfer Learning and Conventional CNN
+
 | Model       | Test Loss | Test Accuracy | Test AUC | Test Precision | Test Recall |
 |-------------|-----------|---------------|----------|----------------|-------------|
 | VGG16       | 0.193     | 0.927         | 0.993    | 0.928          | 0.924       |
