@@ -158,7 +158,15 @@ The following table shows the evaluation metrics for different models used in th
 | EfficientNetb0 | 0.110  | 0.962         | 0.997    | 0.964          | 0.962       |
 | CNN         | 0.035     | 0.991         | 0.999    | 0.991          | 0.991       |
 
+### Machine Learning Models
 
+The following table shows the performance metrics for different models:
+
+|      Model            | Accuracy | Precision | Recall |
+|-----------------------|----------|-----------|--------|
+| Logistic Regression   |   0.75   |    0.81   |  0.73  |
+|        SVM            |   0.99   |    0.99   |  0.99  |
+|    Random Forest      |   0.71   |    0.64   |  0.42  |
 
 
 
